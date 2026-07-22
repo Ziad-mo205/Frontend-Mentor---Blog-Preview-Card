@@ -38,4 +38,4 @@ Throughout this project, I practiced:
 
 - 🌐 **Live Site:** https://frontend-mentor-blog-preview-card-tau-ruddy.vercel.app/
 - 💻 **Repository:** https://github.com/Ziad-mo205/Frontend-Mentor---Blog-Preview-Card
-- 🎯 **Frontend Mentor Solution:** 
+- 🎯 **Frontend Mentor Solution:** https://www.frontendmentor.io/solutions responsive-blog-preview-card-using-min-function-eqvOcNf48I
